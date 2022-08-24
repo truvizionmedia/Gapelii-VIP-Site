@@ -1,0 +1,75 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: white;
+}
+
+li {display: inline;
+	float: left;
+}
+
+li a {display: block;
+		color: black;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+}
+
+li a:hover {
+	background-color: black;
+	color: white;
+}
+
+
+body {
+	background-image: url("Andrew Vip Gapelii.jpeg");
+	 background-repeat: no-repeat;
+	 background-size: cover;
+}
+
+h1 {			
+	color: white;
+	text-align: center;
+	text-shadow: 4px 4px 4px black;
+	margin-bottom: 400px;
+}
+
+img {
+	height: 100px;
+	width: 150px;
+	margin-bottom: 5px;
+}
+
+input {
+	width: 35%;
+	padding: 12px 20px;
+	margin: 8px 0px;
+	box-sizing: border-box;
+}
+
+input[type=submit] {
+	background-color: black;
+	color: white;
+	border: none;
+	padding: 16px 32px;
+	text-decoration: none;
+	margin: 4px 2px;
+	cursor: pointer;
+	width: 15%;
+
+}
+
+form {
+	text-align: center;
+	margin-top: 350px;
+
+}
+
+footer {
+	text-align: center;
+	background-color: white;
+	margin-top: 250px;
+	height: 100px;
+}
